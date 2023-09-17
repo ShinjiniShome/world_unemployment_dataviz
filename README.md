@@ -15,3 +15,13 @@ The reshaped dataset contains the columns Country Name, Country Code, Year and U
 
 # Tableau Dashboard
 The Dashboard is published on Tableau Public under the link : https://public.tableau.com/views/WorldUnemploymentDataViz/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+The individual viz's can be accessed and interacted with in the tabs.
+
+## Viz 1 : World Unemployment Rates by Year
+
+## Viz 2 : Unemployment Trends by Country in All Years
+
+## Viz 3 : Unemployment Rates by Country and Year
+
+## Viz 4 : Unemployment Rates by Country Condition
