@@ -1,5 +1,6 @@
 # world_unemployment_dataviz
 Analysis and Visualization of the World Unemployment Rates dataset denoting the worldwide unemployment rates from the years 1991 to 2021.
+Tools Used : Tableau Public for Visualization and Python Pandas for Data-Reshaping.
 
 # Dataset
 The source dataset used here can be found : https://www.kaggle.com/datasets/pantanjali/unemployment-dataset
