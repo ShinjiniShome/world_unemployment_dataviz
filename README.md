@@ -3,7 +3,8 @@ Analysis and Visualization of the World Unemployment Rates dataset denoting the 
 Tools Used: Tableau Public for Visualization and Python Pandas for Data-Reshaping.
 
 # Dataset
-The source dataset used here can be found : https://www.kaggle.com/datasets/pantanjali/unemployment-dataset
+The source dataset used here can be found : https://www.kaggle.com/datasets/pantanjali/unemployment-dataset  
+It has also been added under the Data folder in the repository as "unemployment_analysis.csv".
 
 # Data Description
 The original dataset contains the columns Country Names, Country Codes and years 1991 to 2021.  
